@@ -1,0 +1,33 @@
+.container {
+        z-index: 1;
+        max-width: 1180px;
+        height: 100vh;
+        display: flex;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+ }      
+.header {
+        font-size: 36px;
+        white-space: nowrap;
+        color: rgb(0, 0, 0);
+}
+.butt{
+        color: white;
+  padding: 10px 18px;
+  background: #000000;
+  border-radius: 5px;
+  min-width: 220px;
+  border: none;
+  font-size: 16px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: 0.4s background ease-in;
+  
+}
+.butt:hover {
+        background-color: white;
+        border: 1px solid black;        
+        color: black;
+        transition: 0.3s background ease-in;
+}

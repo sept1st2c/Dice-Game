@@ -1,0 +1,12 @@
+.ScoreContainer {
+        max-width: 200px;
+        text-align: center;
+}
+.head {
+        font-size: 100px;
+        line-height: 100px;
+      }
+.pp {
+        font-size: 24px;
+        font-weight: 500px;
+      }
